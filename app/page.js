@@ -24,7 +24,8 @@ export default async function Home() {
   return (
     <div className="space-y-10">
       {/* Add the test component at the top */}
-      <TestTailwind />
+
+      {/* <TestTailwind /> */}
 
       <section className="text-center py-10">
         <h1 className="text-4xl font-bold mb-4">Welcome to Our Investment Platform</h1>
